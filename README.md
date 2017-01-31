@@ -88,6 +88,9 @@ which protect from system crash and restarting of computer every time.
 
 is  the  major   most  important  Advantage.
 
+14) WEBDESKTOP  is  a  new feature  in  VS-OS.
+
+Note: VS-OS  means  WINIX OS +  Userfriendly  explorer  +  WEBDesktop+ virus/malware protection.
 
 
 
