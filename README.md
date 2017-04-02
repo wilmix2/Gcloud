@@ -4,13 +4,21 @@
 VS-OSv.1
 =========
 
-VS-OS v.1  is  an  Most Important  TOP operating  system  implemented   in  JDollar  Technology.
+VS-OS v.1  is  an  Most Important  TOP operating  system  first  implemented  in  CHDollar P.L  and   now  modified in
+
+JDollar  Technology.
 
 It is invented by wilmix jemin j  IN  JDOLLAR   at 2017 for WRIT Professionals.
 
 and  VS  stands   for  Virus shield or virus  protector.
 
 VS-OS  is   the  Most  important  OS of all.
+
+VS-OS   is  otherwise  known  as   gcloud  and  is  called  as   remotedesktop os.
+
+it  can  be  seen  through  laptop,  and ipad.
+
+It  behave like  cloud  so   it  is  called  as  Gcloudv.1  or  WGALAXY.
 
 
 It   is Ranked as  NO:1  OS   due to  12  different  kinds  of Advanced desktop...  and
