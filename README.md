@@ -106,3 +106,9 @@ Note: VS-OS  means  WINIX OS +  Userfriendly  explorer  +  WEBDesktop+ virus/mal
 
 Period  of VS-OS  project  :  [  year   2012  to   year  2017].
 
+
+Approved url: http://freshcode-mirror.opensourcestore.org/projects/gcloud
+============
+
+Tutorial  url : https://sites.google.com/site/jemininformationtechnologyjit/virusshieldos
+==============
