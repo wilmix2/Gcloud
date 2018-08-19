@@ -6,9 +6,9 @@ VS-OSv.1
 
 VS-OS v.1  is  an  Most Important  TOP operating  system  first  implemented  in  CHDollar P.L  and   now  modified in
 
-JDollar  Technology.
+DOTWEB3.0  Technology.
 
-It is invented by wilmix jemin j  IN  JDOLLAR   at 2017 for WRIT Professionals.
+It is invented by wilmix jemin j  IN  DOTWEB3.0  at 2017 for WRIT Professionals.
 
 and  VS  stands   for  Virus shield or virus  protector.
 
@@ -43,7 +43,7 @@ professionals.
 
 It  runs  on   32bit x86   hardware  platform  and  it  is    one  of  the  most  advanced os  of  all..
 
-We  use JDollar   to  construct  VS-OS OS  GUI....
+We  use  DOTWEB3.0   to  construct  VS-OS OS  GUI....
 
 
 Actually  VS-OS  Desktop    is  divided  in  to    two   types.....
@@ -110,5 +110,3 @@ Period  of VS-OS  project  :  [  year   2012  to   year  2017].
 Approved url: http://freshcode-mirror.opensourcestore.org/projects/gcloud
 ============
 
-Tutorial  url : https://sites.google.com/site/jemininformationtechnologyjit/virusshieldos
-==============
